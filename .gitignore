@@ -1,0 +1,6 @@
+node_modules/*
+config/config
+data
+pnpm-lock.yaml
+apps/test.js
+/.idea
